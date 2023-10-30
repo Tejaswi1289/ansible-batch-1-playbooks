@@ -8,4 +8,4 @@
    tasks:
   - name: this is the vars example
     debug:
-       msg: "{{test}}"
+      msg: "{{test}}"
